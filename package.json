@@ -5,16 +5,15 @@
   "description": "common toolkit", 
   "keywords": ["utils", "format", "money", "phone"], 
   "repository": {
-   
     "type": "git",
-    "url": "https://github.com/mojvca/new.git"
+    "url": "git+https://github.com/mojvca/new.git"
   },
   "license": "ISC", 
   "main": "index.js", 
   "scripts": {
-    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage":"https://github.com/mojvca/new",
   "dependencies": {
     "guzibiji": "^1.0.0",
     "bert5338": "^1.0.0",
